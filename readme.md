@@ -1,4 +1,4 @@
-(![img.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w1IkggFsbXI-R8UP-_IDQm-2I2JX6m0vikF5SsFf&s)
+![img.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w1IkggFsbXI-R8UP-_IDQm-2I2JX6m0vikF5SsFf&s)
 
 #IFellowExamTask2
 
